@@ -1,0 +1,459 @@
+{
+  "schemaVersion": 1,
+  "contentPolicy": "Original FluentPath familiarisation tasks covering representative IELTS Academic and PTE Academic question types. These are not official or copied exam questions; educator review is required before sale.",
+  "tasks": [
+    {
+      "id":"ielts-reading-identifying-information-views",
+      "exam":"IELTS Academic","skill":"Reading","format":"True/False/Not Given · Yes/No/Not Given",
+      "title":"Reading · Identify claims and information",
+      "instructions":"Read the short passage. Decide whether each statement matches the information or the writer's view.",
+      "passage":"A university tested a weekend shuttle between two campuses for twelve weeks. Passenger counts rose on Saturdays, although the study did not compare every possible reason for the increase. The writer argues that another trial should include more months and a wider range of students before the route becomes permanent. The report does not state how much the shuttle cost to operate.",
+      "questions":[
+        {"question":"The shuttle trial lasted twelve weeks.","options":["True","False","Not Given"],"answerIndex":0,"explanation":"The first sentence states that the trial lasted twelve weeks."},
+        {"question":"The report proves the shuttle was the only reason passenger numbers rose.","options":["True","False","Not Given"],"answerIndex":1,"explanation":"The report says it did not compare every possible reason."},
+        {"question":"The writer supports making the shuttle permanent immediately.","options":["Yes","No","Not Given"],"answerIndex":1,"explanation":"The writer recommends a broader trial before a permanent decision."}
+      ],
+      "source":"Original FluentPath passage and questions","rights":"Created for this project; not official exam material"
+    },
+    {
+      "id":"ielts-reading-matching-headings-information-features",
+      "exam":"IELTS Academic","skill":"Reading","format":"Matching headings · information · features",
+      "title":"Reading · Match headings and details",
+      "instructions":"Read the three short paragraphs and select the heading, paragraph, or researcher that matches each question.",
+      "passage":"A. The town opened a repair café where residents bring small appliances and learn basic repairs from volunteers. Organisers say the sessions also create a place for neighbours to meet.\n\nB. A local survey found that many residents wanted evening sessions, but the survey included only people who had already visited the library. The council plans a second survey in other neighbourhoods.\n\nC. Researcher Maya Chen recommends measuring how many items are repaired and how many residents return. Researcher Omar Ali says transport access should be improved before adding more sessions.",
+      "questions":[
+        {"kind":"select","question":"Which heading best describes Paragraph A?","options":["A shared place to learn repairs","A survey with a limited sample","Two proposals from researchers"],"answerIndex":0,"explanation":"Paragraph A describes repair practice and neighbour contact."},
+        {"kind":"select","question":"Which paragraph mentions a limitation in the survey sample?","options":["Paragraph A","Paragraph B","Paragraph C"],"answerIndex":1,"explanation":"Paragraph B explains that only previous library visitors were surveyed."},
+        {"kind":"select","question":"Who recommends measuring repeat visits?","options":["Maya Chen","Omar Ali","The town council"],"answerIndex":0,"explanation":"Maya Chen recommends measuring how many residents return."}
+      ],
+      "source":"Original FluentPath passage and questions","rights":"Created for this project; not official exam material"
+    },
+    {
+      "id":"ielts-reading-matching-endings-completion",
+      "exam":"IELTS Academic","skill":"Reading","format":"Matching sentence endings",
+      "title":"Reading · Complete ideas from a passage",
+      "instructions":"Read the passage and choose the ending that completes each idea accurately.",
+      "passage":"A college introduced a lending library for laboratory equipment. Students can borrow tools for short projects instead of buying them. The first review found that bookings were highest near assignment deadlines. Staff also found that clear return dates reduced missing equipment. The college plans to keep the service and review its storage space next year.",
+      "questions":[
+        {"kind":"select","question":"Students can use the lending library to…","options":["borrow tools for short projects","avoid completing assignments","replace all laboratory classes"],"answerIndex":0,"explanation":"Students borrow equipment rather than buy it for short projects."},
+        {"kind":"select","question":"Bookings were highest…","options":["during the summer break","near assignment deadlines","on the first day of term"],"answerIndex":1,"explanation":"The first review found peak bookings near deadlines."},
+        {"kind":"select","question":"The college plans to review…","options":["its storage space next year","whether to close the college","the price of every assignment"],"answerIndex":0,"explanation":"The final sentence states that storage space will be reviewed."}
+      ],
+      "source":"Original FluentPath passage and questions","rights":"Created for this project; not official exam material"
+    },
+    {
+      "id":"ielts-reading-sentence-summary-completion",
+      "exam":"IELTS Academic","skill":"Reading","format":"Sentence completion · summary completion",
+      "title":"Reading · Complete a summary",
+      "instructions":"Read the passage and type the missing word or short phrase. Check spelling before submitting.",
+      "passage":"A coastal research team restored a small salt marsh by reopening a channel that had been blocked by an old embankment. Native plants returned over two growing seasons. The team measured water levels and plant cover each month, but warned that one site cannot predict results everywhere. Long-term monitoring will continue because storms and nearby construction may affect the marsh.",
+      "questions":[
+        {"kind":"text","question":"The team reopened a ______ that had been blocked.","acceptedAnswers":["channel"],"explanation":"The restoration reopened a channel."},
+        {"kind":"text","question":"Native plants returned over two ______ seasons.","acceptedAnswers":["growing"],"explanation":"The passage specifies two growing seasons."},
+        {"kind":"select","question":"Why will monitoring continue?","options":["Storms and nearby construction may affect the marsh","The team has already studied every coastal site","The plants need to be removed"],"answerIndex":0,"explanation":"The final sentence names storms and construction as possible influences."}
+      ],
+      "source":"Original FluentPath passage and questions","rights":"Created for this project; not official exam material"
+    },
+    {
+      "id":"ielts-reading-diagram-label-short-answer",
+      "exam":"IELTS Academic","skill":"Reading","format":"Diagram label completion · short-answer questions",
+      "title":"Reading · Follow a process and locate details",
+      "instructions":"Use the passage to complete the labels and answer in a few words.",
+      "passage":"In a small water-reuse system, rain first enters a storage tank through a roof pipe. A mesh screen removes leaves before the water reaches a settling chamber. After heavier particles sink, the water passes through a sand filter. The treated water is stored separately and used for garden irrigation; it is not intended for drinking.",
+      "diagram":["Roof pipe","Storage tank","Mesh screen","Settling chamber","______ filter","Garden irrigation"],
+      "questions":[
+        {"kind":"select","question":"Roof pipe → storage tank → mesh screen → settling chamber → ______ filter","options":["sand","paper","carbon"],"answerIndex":0,"explanation":"The passage says water passes through a sand filter."},
+        {"kind":"text","question":"What is the treated water used for?","acceptedAnswers":["garden irrigation","irrigation","watering the garden"],"explanation":"The treated water is used for garden irrigation."},
+        {"kind":"text","question":"Is the stored water intended for drinking?","acceptedAnswers":["no","no it is not"],"explanation":"The passage explicitly says it is not intended for drinking."}
+      ],
+      "source":"Original FluentPath passage and questions","rights":"Created for this project; not official exam material"
+    },
+    {
+      "id":"ielts-listening-matching-map-label",
+      "exam":"IELTS Academic","skill":"Listening","format":"Matching · plan/map labelling",
+      "title":"Listening · Match campus locations",
+      "instructions":"Listen to the campus directions. Match each service to its location on the simple plan.",
+      "audioScript":"The new student centre is beside the main gate. The advice desk is immediately to the left of the entrance, while the quiet study room is at the far end of the corridor. The café is opposite the advice desk. A small garden is behind the building, and bicycles can be parked near the east gate.",
+      "questions":[
+        {"kind":"select","question":"Where is the advice desk?","options":["Immediately left of the entrance","Behind the building","Near the east gate"],"answerIndex":0,"explanation":"The advice desk is immediately left of the entrance."},
+        {"kind":"select","question":"What is opposite the advice desk?","options":["The quiet study room","The café","The main gate"],"answerIndex":1,"explanation":"The café is opposite the advice desk."},
+        {"kind":"select","question":"Where can bicycles be parked?","options":["Near the east gate","At the far end of the corridor","Behind the café"],"answerIndex":0,"explanation":"The directions place bicycle parking near the east gate."}
+      ],
+      "source":"Original FluentPath listening script and questions","rights":"Created for this project; not official exam material"
+    },
+    {
+      "id":"ielts-listening-form-sentence-completion",
+      "exam":"IELTS Academic","skill":"Listening","format":"Form · table · sentence completion",
+      "title":"Listening · Complete booking details",
+      "instructions":"Listen to the phone message and type the missing details. Use the exact information you hear.",
+      "audioScript":"Hello, this is Nila calling to confirm the science museum visit. Our group booking is for Thursday, 14 August, at 10:30 in the morning. Please meet at the south entrance. The booking is under the name Greenfield College, and the group has twenty-four students. Visitors should bring a packed lunch because the café will be closed for maintenance.",
+      "questions":[
+        {"kind":"text","question":"Booking name: ______","acceptedAnswers":["Greenfield College"],"explanation":"The booking is under Greenfield College."},
+        {"kind":"text","question":"Meeting point: the ______ entrance","acceptedAnswers":["south"],"explanation":"The group should meet at the south entrance."},
+        {"kind":"text","question":"Number of students: ______","acceptedAnswers":["24","twenty-four","twenty four"],"explanation":"The message says the group has twenty-four students."}
+      ],
+      "source":"Original FluentPath listening script and questions","rights":"Created for this project; not official exam material"
+    },
+    {
+      "id":"ielts-listening-short-answer",
+      "exam":"IELTS Academic","skill":"Listening","format":"Short-answer questions",
+      "title":"Listening · Answer with short details",
+      "instructions":"Listen to the announcement and type a short answer for each question.",
+      "audioScript":"The university's open day will be held on Friday, 6 September. The first laboratory tour begins at 9:40 a.m. and starts outside the science library. Participants should register online by 30 August. Comfortable shoes are recommended because the tour includes a walk between two buildings.",
+      "questions":[
+        {"kind":"text","question":"On what date is the open day?","acceptedAnswers":["6 September","September 6","6th September"],"explanation":"The announcement gives Friday, 6 September."},
+        {"kind":"text","question":"Where does the first tour start?","acceptedAnswers":["outside the science library","science library"],"explanation":"The tour begins outside the science library."},
+        {"kind":"text","question":"What should participants wear?","acceptedAnswers":["comfortable shoes","shoes"],"explanation":"Comfortable shoes are recommended."}
+      ],
+      "source":"Original FluentPath listening script and questions","rights":"Created for this project; not official exam material"
+    },
+    {
+      "id":"ielts-writing-academic-task-1-chart",
+      "exam":"IELTS Academic","skill":"Writing","format":"Academic Writing Task 1 · bar chart",
+      "title":"Writing · Compare commuter choices",
+      "instructions":"Summarise the main features and make relevant comparisons. Write at least 150 words.",
+      "prompt":"The chart compares the percentage of staff travelling to work by bus in four years. Describe the main trends and make relevant comparisons. Do not give reasons that are not shown by the data.",
+      "chart":{"title":"Staff commuting by bus","unit":"%","categories":["2010","2015","2020","2025"],"series":[{"name":"Staff","values":[28,34,31,46]}]},
+      "suggestedTimeMinutes":20,"minimumWords":150,
+      "source":"Original FluentPath chart data and prompt","rights":"Created for this project; not official exam material"
+    },
+    {
+      "id":"ielts-writing-academic-task-1-map",
+      "exam":"IELTS Academic","skill":"Writing","format":"Academic Writing Task 1 · map comparison",
+      "title":"Writing · Compare two site plans",
+      "instructions":"Summarise the main changes and make relevant comparisons. Write at least 150 words.",
+      "prompt":"The original riverside site has a car park in the north, a small garden in the centre, and a footpath along the river. In the proposed plan, the car park becomes a visitor centre, the central garden is expanded, and a cycle path is added beside the existing footpath. Write a report describing the proposed changes. Do not add reasons that are not shown.",
+      "suggestedTimeMinutes":20,"minimumWords":150,
+      "source":"Original FluentPath site plan data and prompt","rights":"Created for this project; not official exam material"
+    },
+    {
+      "id":"ielts-writing-academic-task-1-process",
+      "exam":"IELTS Academic","skill":"Writing","format":"Academic Writing Task 1 · process diagram",
+      "title":"Writing · Describe a recycling process",
+      "instructions":"Describe the stages in order and report the main features. Write at least 150 words.",
+      "prompt":"A diagram shows how used glass bottles are recycled: collection; sorting by colour; washing; crushing into small pieces; melting in a furnace; forming new bottles; and delivery to shops. Write a report describing the process from collection to delivery.",
+      "suggestedTimeMinutes":20,"minimumWords":150,
+      "source":"Original FluentPath process description and prompt","rights":"Created for this project; not official exam material"
+    },
+    {
+      "id":"ielts-speaking-part-1-familiar-topics",
+      "exam":"IELTS Academic","skill":"Speaking","format":"Speaking Part 1 · familiar topics",
+      "title":"Speaking · Study and daily routines",
+      "instructions":"Answer the questions naturally in short, complete responses. Record one response covering the set.",
+      "prompt":"1. What are you studying at the moment? 2. Which part of your studies do you enjoy most? 3. Where do you usually study? 4. Has your daily routine changed recently?",
+      "suggestedResponseSeconds":90,
+      "source":"Original FluentPath speaking questions","rights":"Created for this project; not official exam material"
+    },
+    {
+      "id":"ielts-speaking-part-3-discussion",
+      "exam":"IELTS Academic","skill":"Speaking","format":"Speaking Part 3 · discussion",
+      "title":"Speaking · Learning in communities",
+      "instructions":"Give developed answers, explain your reasons, and support ideas with examples.",
+      "prompt":"1. Why do some adults continue learning after formal education? 2. Should local governments provide more free learning spaces? 3. How might technology change community learning in the future?",
+      "suggestedResponseSeconds":120,
+      "source":"Original FluentPath speaking questions","rights":"Created for this project; not official exam material"
+    },
+    {
+      "id":"pte-reading-dropdown-word-bank",
+      "exam":"PTE Academic","skill":"Reading","format":"Fill in the Blanks (Dropdown) · Fill in the Blanks (Drag and Drop)",
+      "title":"Reading · Complete a short academic passage",
+      "instructions":"Choose the best word for each gap. Use a dropdown for the first two blanks and drag or select a word from the bank for the final blank.",
+      "passage":"Urban wetlands can store storm water and provide habitat. Their long-term success depends on careful ______ and monitoring. Local groups can help collect data, although their observations need to be ______ with consistent methods. A restored wetland may reduce some risks, but it cannot ______ every flood.",
+      "questions":[
+        {"kind":"select","question":"Blank 1","options":["maintenance","celebration","permission"],"answerIndex":0,"explanation":"Maintenance and monitoring support long-term success."},
+        {"kind":"select","question":"Blank 2","options":["compared","confused","replaced"],"answerIndex":0,"explanation":"Consistent methods allow observations to be compared."},
+        {"kind":"word-bank","question":"Blank 3","options":["prevent","invite","measure"],"answerIndex":0,"explanation":"The passage says the wetland cannot prevent every flood."}
+      ],
+      "source":"Original FluentPath passage and questions","rights":"Created for this project; not official exam material"
+    },
+    {
+      "id":"pte-reading-multiple-answer-reorder",
+      "exam":"PTE Academic","skill":"Reading","format":"Multiple Choice, Multiple Answers · Reorder Paragraph",
+      "title":"Reading · Select ideas and arrange a paragraph",
+      "instructions":"Select both statements supported by the passage, then place the notes in a logical order.",
+      "passage":"A university introduced a tool library for student projects. Students first reserve an item online. Staff check the equipment before collection, and borrowers return it to a service desk after use. The library records damage so it can repair or replace items before the next booking.",
+      "questions":[
+        {"kind":"multi","question":"Which TWO actions are part of the borrowing process?","options":["Reserve an item online","Return equipment to a service desk","Keep the item without a return date","Buy a replacement before borrowing"],"answerIndices":[0,1],"explanation":"Borrowers reserve online and return items to the service desk."},
+        {"kind":"order","question":"Arrange the process notes in the order described.","items":["Return the item","Reserve online","Staff check the equipment"],"answerOrder":[1,2,0],"explanation":"Reservation comes first, then the staff check, followed by return."},
+        {"kind":"select","question":"Why does the library record damage?","options":["To repair or replace items before the next booking","To prevent students from reserving items","To remove the service desk"],"answerIndex":0,"explanation":"The passage says damage is recorded so items can be repaired or replaced."}
+      ],
+      "source":"Original FluentPath passage and questions","rights":"Created for this project; not official exam material"
+    },
+    {
+      "id":"pte-listening-multiple-answer-summary",
+      "exam":"PTE Academic","skill":"Listening","format":"Multiple Choice, Multiple Answers · Highlight Correct Summary",
+      "title":"Listening · Identify the main points",
+      "instructions":"Listen to the short talk. Select the two supported details, then choose its best summary.",
+      "audioScript":"A city tested reflective paint on the roofs of three public buildings. Measurements showed lower roof temperatures on sunny afternoons, but indoor temperatures changed less consistently. The team says the trial is promising but small, and it will compare different materials over a full year before making recommendations.",
+      "questions":[
+        {"kind":"multi","question":"Which TWO findings did the speaker report?","options":["Roof temperatures were lower on sunny afternoons","Indoor temperatures changed consistently in every building","The trial included three public buildings","The team has already made a final recommendation"],"answerIndices":[0,2],"explanation":"The trial involved three buildings and found lower roof temperatures on sunny afternoons."},
+        {"question":"Choose the best summary of the talk.","options":["A small roof-paint trial showed a promising result, but the team wants a year of comparisons before recommending a material.","The city replaced every roof and confirmed indoor temperatures always fell.","The team rejected all reflective materials before taking measurements."],"answerIndex":0,"explanation":"The speaker describes a promising small trial and plans a year-long comparison."},
+        {"question":"What will the team compare next?","options":["Different materials over a full year","Only indoor furniture","Buildings in another country"],"answerIndex":0,"explanation":"The team plans to compare materials over a full year."}
+      ],
+      "source":"Original FluentPath listening script and questions","rights":"Created for this project; not official exam material"
+    },
+    {
+      "id":"pte-listening-fill-blanks-type-in",
+      "exam":"PTE Academic","skill":"Listening","format":"Fill in the Blanks (Type In)",
+      "title":"Listening · Restore missing words",
+      "instructions":"Listen to the recording and type each missing word. Spelling matters in this practice check.",
+      "audioScript":"The research team collected soil samples from twelve community gardens. Samples were stored in labelled containers and delivered to the laboratory on the same day. The team will publish a short summary after checking the results.",
+      "questions":[
+        {"kind":"text","question":"The team collected soil samples from ______ community gardens.","acceptedAnswers":["twelve","12"],"explanation":"The speaker says twelve community gardens."},
+        {"kind":"text","question":"Samples were stored in ______ containers.","acceptedAnswers":["labelled","labeled"],"explanation":"The containers were labelled."},
+        {"kind":"text","question":"The summary will be published after checking the ______.","acceptedAnswers":["results"],"explanation":"The speaker says the team will check the results first."}
+      ],
+      "source":"Original FluentPath listening script and questions","rights":"Created for this project; not official exam material"
+    },
+    {
+      "id":"pte-listening-select-missing-word",
+      "exam":"PTE Academic","skill":"Listening","format":"Select Missing Word",
+      "title":"Listening · Predict the final phrase",
+      "instructions":"Listen to each short extract and select the phrase that best completes the speaker's final idea.",
+      "audioScript":"The library extended its evening hours during the exam period. Student visits increased, especially after 7 p.m. The staff will review the trial before deciding whether to… The new cycle route reduced travel time for some commuters. The council will collect more information over winter and then decide whether to… The laboratory has replaced several older instruments. Students will receive safety training before they…",
+      "questions":[
+        {"question":"The library will decide whether to…","options":["keep the later hours","close every study room","remove the book collection"],"answerIndex":0,"explanation":"A review will determine whether the extended hours continue."},
+        {"question":"The council will decide whether to…","options":["extend the cycle route","cancel the winter season","move the library"],"answerIndex":0,"explanation":"The extract says the council will decide whether to extend the route."},
+        {"question":"Students will receive training before they…","options":["use the new instruments","publish the council report","design a cycle route"],"answerIndex":0,"explanation":"Safety training is required before students use the new instruments."}
+      ],
+      "source":"Original FluentPath listening script and questions","rights":"Created for this project; not official exam material"
+    },
+    {
+      "id":"pte-listening-highlight-incorrect-words",
+      "exam":"PTE Academic","skill":"Listening","format":"Highlight Incorrect Words",
+      "title":"Listening · Find words that differ",
+      "instructions":"Listen to the recording. In each displayed sentence, select the word that differs from what you hear.",
+      "audioScript":"The seminar begins at nine on Tuesday. Please bring your student card to the entrance. The final report will be available online next month.",
+      "questions":[
+        {"kind":"highlight","question":"Displayed sentence: The seminar begins at ten on Tuesday.","tokens":["The","seminar","begins","at","ten","on","Tuesday."],"answerIndices":[4],"explanation":"The recording says nine; the displayed sentence says ten."},
+        {"kind":"highlight","question":"Displayed sentence: Please bring your student card to the office.","tokens":["Please","bring","your","student","card","to","the","office."],"answerIndices":[7],"explanation":"The recording says entrance; the displayed sentence says office."},
+        {"kind":"highlight","question":"Displayed sentence: The final report will be available online next week.","tokens":["The","final","report","will","be","available","online","next","week."],"answerIndices":[8],"explanation":"The recording says next month; the displayed sentence says next week."}
+      ],
+      "source":"Original FluentPath listening script and sentences","rights":"Created for this project; not official exam material"
+    },
+    {
+      "id":"pte-listening-write-from-dictation",
+      "exam":"PTE Academic","skill":"Listening","format":"Write from Dictation",
+      "title":"Listening · Type the sentences you hear",
+      "instructions":"Listen to each sentence and type it from memory. Check word order and spelling.",
+      "audioScript":"Public transport can reduce traffic near the university. The new library will open at the start of September. Students should save a copy of their completed form.",
+      "questions":[
+        {"kind":"text","question":"Sentence 1","answerText":"Public transport can reduce traffic near the university.","explanation":"Compare your wording with the sentence that was read aloud."},
+        {"kind":"text","question":"Sentence 2","answerText":"The new library will open at the start of September.","explanation":"Compare your wording with the sentence that was read aloud."},
+        {"kind":"text","question":"Sentence 3","answerText":"Students should save a copy of their completed form.","explanation":"Compare your wording with the sentence that was read aloud."}
+      ],
+      "source":"Original FluentPath dictation sentences","rights":"Created for this project; not official exam material"
+    },
+    {
+      "id":"pte-listening-summarize-spoken-text",
+      "exam":"PTE Academic","skill":"Writing","format":"Summarize Spoken Text",
+      "title":"Writing · Summarise a short talk",
+      "instructions":"Listen to the talk, then write a 50–70 word summary covering its main idea and key details.",
+      "prompt":"Write a concise summary of the recording. Include the main idea and the evidence or qualification given by the speaker.",
+      "audioScript":"A regional transport study compared travel patterns before and after a new bus interchange opened. Passenger numbers rose on routes serving the university, while use of two nearby stops fell slightly. Researchers caution that the figures cover only one semester and may also reflect changes in class schedules. They plan to repeat the survey next year before drawing conclusions about the interchange's long-term effect.",
+      "suggestedTimeMinutes":10,"minimumWords":50,"maximumWords":70,
+      "source":"Original FluentPath listening script and writing prompt","rights":"Created for this project; not official exam material"
+    },
+    {
+      "id":"pte-speaking-read-aloud",
+      "exam":"PTE Academic","skill":"Speaking","format":"Read Aloud",
+      "title":"Speaking · Read an academic passage aloud",
+      "instructions":"Read the passage aloud clearly and at a steady pace. You may prepare briefly before recording.",
+      "prompt":"Coastal research stations collect observations about water quality, wildlife, and changing shorelines. When these records are gathered over many years, they can help communities understand local environmental change and plan suitable responses.",
+      "suggestedResponseSeconds":45,
+      "source":"Original FluentPath read-aloud passage","rights":"Created for this project; not official exam material"
+    },
+    {
+      "id":"pte-speaking-repeat-sentence",
+      "exam":"PTE Academic","skill":"Speaking","format":"Repeat Sentence",
+      "title":"Speaking · Listen and repeat sentences",
+      "instructions":"Play the sample audio, then repeat each sentence from memory in one recording.",
+      "prompt":"Listen carefully to the spoken sentences and repeat them in the same order.",
+      "audioScript":"The science building is closed during the public holiday. Please submit your project outline before Friday afternoon. A short break can improve concentration during long study sessions.",
+      "suggestedResponseSeconds":45,
+      "source":"Original FluentPath practice sentences","rights":"Created for this project; not official exam material"
+    },
+    {
+      "id":"pte-speaking-answer-short-question",
+      "exam":"PTE Academic","skill":"Speaking","format":"Answer Short Question",
+      "title":"Speaking · Answer short questions",
+      "instructions":"Play the sample audio, then answer each question briefly in one recording.",
+      "prompt":"Listen to the questions and respond with a short, direct answer.",
+      "audioScript":"Which device is used to measure temperature? What do we call a person who studies plants? How many days are there in a leap year?",
+      "suggestedResponseSeconds":30,
+      "source":"Original FluentPath practice questions","rights":"Created for this project; not official exam material"
+    },
+    {
+      "id":"pte-speaking-summarize-group-discussion",
+      "exam":"PTE Academic","skill":"Speaking","format":"Summarize Group Discussion",
+      "title":"Speaking · Summarise a group discussion",
+      "instructions":"Listen to the discussion and record a concise summary of the shared topic and each speaker's main point.",
+      "prompt":"Summarize the participants' views. State the common topic and explain where their opinions agree or differ.",
+      "audioScript":"Moderator: Should the university create more car-free areas? Speaker one: I support it because students need safer walking routes and cleaner air. Speaker two: I agree with reducing traffic, but some students travel from distant areas and need reliable bus services first. Speaker three: A gradual trial would be sensible. The university could begin near the library, measure safety and travel times, and then decide whether to expand the zone.",
+      "suggestedResponseSeconds":50,
+      "source":"Original FluentPath discussion script and prompt","rights":"Created for this project; not official exam material"
+    },
+    {
+      "id":"ielts-reading-matching-researchers",
+      "exam":"IELTS Academic","skill":"Reading","format":"Matching features · researcher findings",
+      "title":"Reading · Match findings to research teams",
+      "instructions":"Read the short passage and match each finding to the research team that reported it. A team may be used more than once.",
+      "passage":"Three teams studied urban trees. Team North measured temperatures on streets with mature trees and found lower afternoon surface temperatures, but did not measure indoor conditions. Team Coast surveyed residents and found that shaded routes were chosen more often during hot weeks. Team Vale tracked young trees for two years; survival improved where watering schedules were adjusted after rainfall. None of the teams compared every city district.",
+      "questions":[
+        {"kind":"matching","question":"Match each finding to the team responsible.","items":["Recorded lower afternoon surface temperatures","Surveyed residents about route choices","Adjusted watering after rainfall"],"options":["Team North","Team Coast","Team Vale","All three teams"],"answerIndices":[0,1,2],"explanation":"North measured surface temperatures, Coast surveyed residents, and Vale tracked watering and survival."},
+        {"question":"Which team studied resident route choices?","options":["Team North","Team Coast","Team Vale"],"answerIndex":1,"explanation":"The passage says Team Coast surveyed residents about shaded routes."},
+        {"question":"Which team did not measure indoor conditions?","options":["Team North","Team Coast","Team Vale"],"answerIndex":0,"explanation":"The passage specifically notes that Team North did not measure indoor conditions."}
+      ],
+      "source":"Original FluentPath passage and questions","rights":"Created for this project; not official exam material"
+    },
+    {
+      "id":"ielts-reading-note-completion-libraries",
+      "exam":"IELTS Academic","skill":"Reading","format":"Note completion · short-answer questions",
+      "title":"Reading · Complete research notes",
+      "instructions":"Read the passage and type the missing words. Use no more than two words for each answer.",
+      "passage":"A six-month study compared quiet study rooms in four libraries. Researchers counted bookings rather than visitors, because some visitors shared desks. The strongest rise occurred in the late afternoon. Two libraries extended their opening hours, while the other two changed the room layout. The report recommends measuring noise levels in a future study.",
+      "questions":[
+        {"kind":"text","question":"The study lasted ______ months.","acceptedAnswers":["six","6"],"explanation":"The first sentence says the study lasted six months."},
+        {"kind":"text","question":"Researchers counted ______ instead of visitors.","acceptedAnswers":["bookings"],"explanation":"Bookings were counted because some visitors shared desks."},
+        {"kind":"text","question":"The strongest rise was in the ______.","acceptedAnswers":["late afternoon"],"explanation":"The passage identifies the late afternoon as the period with the strongest rise."},
+        {"kind":"text","question":"A future study should measure ______ levels.","acceptedAnswers":["noise"],"explanation":"The report recommends measuring noise levels."}
+      ],
+      "source":"Original FluentPath passage and questions","rights":"Created for this project; not official exam material"
+    },
+    {
+      "id":"ielts-reading-multiple-answer-water-reuse",
+      "exam":"IELTS Academic","skill":"Reading","format":"Multiple choice · more than one answer",
+      "title":"Reading · Select supported statements",
+      "instructions":"Choose TWO statements that are supported by the passage.",
+      "passage":"A campus pilot collected rainwater from two laboratory roofs. The stored water was used for garden irrigation after a basic filtration step. The report found that collection varied substantially between months, so the system could not supply every garden throughout the year. The authors recommend adding a larger storage tank only after another year of measurements.",
+      "questions":[
+        {"kind":"multi","question":"Which TWO statements match the passage?","options":["Rainwater was collected from two laboratory roofs.","The stored water was used for drinking.","Collection amounts varied between months.","The authors recommended installing a larger tank immediately."],"answerIndices":[0,2],"explanation":"The passage says two roofs were used, and collection varied between months. It does not describe drinking use or immediate tank expansion."},
+        {"question":"Why did the authors recommend further measurement?","options":["The current supply was uneven across the year.","The gardens had been removed.","The filtration step was never used."],"answerIndex":0,"explanation":"The system could not supply every garden all year because collection varied."},
+        {"question":"What would the authors consider after another year of measurements?","options":["Adding a larger storage tank","Removing the filtration step","Collecting water from student homes"],"answerIndex":0,"explanation":"They recommend considering a larger tank only after another year of measurements."}
+      ],
+      "source":"Original FluentPath passage and questions","rights":"Created for this project; not official exam material"
+    },
+    {
+      "id":"ielts-listening-flow-chart-campus-study",
+      "exam":"IELTS Academic","skill":"Listening","format":"Flow-chart completion · note completion",
+      "title":"Listening · Follow a study procedure",
+      "instructions":"Listen to the announcement and type the missing information. The browser reads the original sample aloud; you can reveal the transcript if needed.",
+      "audioScript":"Students who want to borrow a field recorder should first complete the online safety form. Next, collect the equipment from the media desk between 10 a.m. and 4 p.m. Before leaving, check that the recorder, cable, and memory card are in the case. Return the case by noon on the next working day. Report any damage to the desk staff rather than attempting a repair.",
+      "questions":[
+        {"kind":"text","question":"Step 1: Complete the online ______ form.","acceptedAnswers":["safety"],"explanation":"The first step is completing the online safety form."},
+        {"kind":"text","question":"Step 2: Collect the recorder from the ______ desk.","acceptedAnswers":["media"],"explanation":"The equipment is collected from the media desk."},
+        {"kind":"text","question":"Step 3: Check the cable and ______ card.","acceptedAnswers":["memory"],"explanation":"The announcement lists the memory card among the items to check."},
+        {"kind":"text","question":"Step 4: Return the case by ______ on the next working day.","acceptedAnswers":["noon"],"explanation":"The return deadline is noon on the next working day."}
+      ],
+      "source":"Original FluentPath listening script and questions","rights":"Created for this project; not official exam material"
+    },
+    {
+      "id":"ielts-listening-matching-workshop",
+      "exam":"IELTS Academic","skill":"Listening","format":"Matching · multiple choice",
+      "title":"Listening · Match speakers to workshop choices",
+      "instructions":"Listen to the discussion and match each student to the workshop they prefer.",
+      "audioScript":"Mina says she wants to learn how to make charts easier to read, so she has chosen the data visualisation workshop. Ravi is interested in checking academic sources and avoiding unreliable websites; he will attend the research skills workshop. Chloe has already collected survey responses and wants help interpreting them, so she selected the statistics workshop.",
+      "questions":[
+        {"kind":"matching","question":"Match each student to a workshop.","items":["Mina","Ravi","Chloe"],"options":["Data visualisation","Research skills","Statistics","Academic writing"],"answerIndices":[0,1,2],"explanation":"Mina chose data visualisation, Ravi chose research skills, and Chloe chose statistics."},
+        {"question":"Who wants help evaluating online sources?","options":["Mina","Ravi","Chloe"],"answerIndex":1,"explanation":"Ravi wants to check academic sources and avoid unreliable websites."},
+        {"question":"Who has already collected survey responses?","options":["Mina","Ravi","Chloe"],"answerIndex":2,"explanation":"Chloe has survey responses and wants help interpreting them."}
+      ],
+      "source":"Original FluentPath listening script and questions","rights":"Created for this project; not official exam material"
+    },
+    {
+      "id":"ielts-listening-multiple-answer-fieldtrip",
+      "exam":"IELTS Academic","skill":"Listening","format":"Multiple choice · more than one answer",
+      "title":"Listening · Choose the correct field-trip details",
+      "instructions":"Listen to the announcement and select TWO details that are correct.",
+      "audioScript":"The geography field trip will leave from the east entrance at 8:15 on Thursday. Bring a packed lunch and a waterproof jacket. The university will provide notebooks, but students should bring their own pencils. The return coach is expected at 5:30 p.m., although traffic may cause a short delay.",
+      "questions":[
+        {"kind":"multi","question":"Which TWO details are correct?","options":["The group leaves from the east entrance.","Students must bring their own notebooks.","The trip is scheduled for Thursday.","The coach is expected back at 4:30 p.m."],"answerIndices":[0,2],"explanation":"The group leaves from the east entrance and the trip is on Thursday. Notebooks are provided, and the return is expected at 5:30 p.m."},
+        {"kind":"text","question":"What should students bring to wear in wet weather?","acceptedAnswers":["a waterproof jacket","waterproof jacket"],"explanation":"The announcement asks students to bring a waterproof jacket."},
+        {"kind":"text","question":"What may cause a short delay on the return journey?","acceptedAnswers":["traffic"],"explanation":"The announcement says traffic may cause a short delay."}
+      ],
+      "source":"Original FluentPath listening script and questions","rights":"Created for this project; not official exam material"
+    },
+    {
+      "id":"ielts-writing-task-1-line-chart",
+      "exam":"IELTS Academic","skill":"Writing","format":"Academic Writing Task 1 · line graph",
+      "title":"Writing · Describe library visits",
+      "instructions":"Summarise the main features and make relevant comparisons. Write at least 150 words.",
+      "prompt":"The line chart shows monthly visits to two university libraries during one academic year. Describe the main trends and compare the figures. Do not suggest causes that are not shown.",
+      "chart":{"title":"Monthly library visits","unit":"k visits","categories":["Sep","Nov","Jan","Mar","May","Jul"],"series":[{"name":"Main library","values":[32,37,29,41,46,25]},{"name":"Science library","values":[18,20,24,23,28,16]}]},
+      "suggestedTimeMinutes":20,"minimumWords":150,
+      "source":"Original FluentPath chart data and prompt","rights":"Created for this project; not official exam material"
+    },
+    {
+      "id":"ielts-writing-task-1-pie-chart",
+      "exam":"IELTS Academic","skill":"Writing","format":"Academic Writing Task 1 · chart comparison",
+      "title":"Writing · Compare student transport choices",
+      "instructions":"Summarise the main features and make relevant comparisons. Write at least 150 words.",
+      "prompt":"The charts compare how students travelled to campus in 2015 and 2025. Describe the main changes and make relevant comparisons.",
+      "chart":{"title":"Share of student journeys","unit":"%","categories":["Bus","Walk","Bicycle","Car"],"series":[{"name":"2015","values":[42,25,13,20]},{"name":"2025","values":[35,31,22,12]}]},
+      "suggestedTimeMinutes":20,"minimumWords":150,
+      "source":"Original FluentPath chart data and prompt","rights":"Created for this project; not official exam material"
+    },
+    {
+      "id":"ielts-writing-task-2-remote-work",
+      "exam":"IELTS Academic","skill":"Writing","format":"Academic Writing Task 2 · discuss both views",
+      "title":"Writing · Work and study from home",
+      "instructions":"Discuss both views and give your own opinion. Support your answer with reasons and examples. Write at least 250 words.",
+      "prompt":"Some people believe that universities should offer more courses that students can complete from home. Others think students learn better when they attend classes in person. Discuss both views and give your own opinion.",
+      "suggestedTimeMinutes":40,"minimumWords":250,
+      "source":"Original FluentPath essay prompt","rights":"Created for this project; not official exam material"
+    },
+    {
+      "id":"ielts-speaking-part-2-community-space",
+      "exam":"IELTS Academic","skill":"Speaking","format":"Speaking Part 2 · long turn cue card",
+      "title":"Speaking · Describe a useful community place",
+      "instructions":"You have one minute to prepare, then speak for up to two minutes. Use the cue points to organise your response.",
+      "prompt":"Describe a place in your community where people can study or learn something. You should say where it is, what people can do there, who uses it, and explain why the place is useful.",
+      "suggestedResponseSeconds":120,
+      "source":"Original FluentPath speaking prompt","rights":"Created for this project; not official exam material"
+    },
+    {
+      "id":"pte-reading-dropdown-water-quality",
+      "exam":"PTE Academic","skill":"Reading","format":"Fill in the Blanks (Dropdown)",
+      "title":"Reading · Complete a water-quality passage",
+      "instructions":"Choose the best option for each blank in the academic text.",
+      "passage":"Water-quality monitoring depends on taking samples at regular ______. Results from different sites can be meaningfully ______ only when collection methods are consistent. Researchers also record rainfall because recent storms may ______ the readings.",
+      "questions":[
+        {"kind":"select","question":"Water-quality blank 1","options":["intervals","interruptions","inventions"],"answerIndex":0,"explanation":"Regular intervals describe repeated sampling times."},
+        {"kind":"select","question":"Water-quality blank 2","options":["compared","delayed","borrowed"],"answerIndex":0,"explanation":"Consistent methods allow results to be compared."},
+        {"kind":"select","question":"Water-quality blank 3","options":["influence","translate","remove"],"answerIndex":0,"explanation":"Rainfall can influence water-quality readings."}
+      ],
+      "source":"Original FluentPath passage and questions","rights":"Created for this project; not official exam material"
+    },
+    {
+      "id":"pte-listening-type-in-materials",
+      "exam":"PTE Academic","skill":"Listening","format":"Fill in the Blanks (Type In)",
+      "title":"Listening · Complete a materials summary",
+      "instructions":"Listen to the original sample and type the missing words.",
+      "audioScript":"The engineering team tested three recycled materials. Each sample was dried before its weight was recorded. The strongest material contained a small proportion of plant fibres, and the team plans to test it under colder conditions.",
+      "questions":[
+        {"kind":"text","question":"Each sample was ______ before its weight was recorded.","acceptedAnswers":["dried"],"explanation":"The speaker says every sample was dried first."},
+        {"kind":"text","question":"The strongest material contained plant ______.","acceptedAnswers":["fibres","fibers"],"explanation":"The material contained a small proportion of plant fibres."},
+        {"kind":"text","question":"The team plans to test the material under ______ conditions.","acceptedAnswers":["colder"],"explanation":"The next tests will use colder conditions."}
+      ],
+      "source":"Original FluentPath listening script and questions","rights":"Created for this project; not official exam material"
+    },
+    {
+      "id":"pte-speaking-respond-situation-library",
+      "exam":"PTE Academic","skill":"Speaking","format":"Respond to a Situation",
+      "title":"Speaking · Respond to a study-room problem",
+      "instructions":"Read the situation and record a polite response that explains the problem and asks for a practical solution.",
+      "prompt":"You reserved a quiet study room for a group project, but another group is using it. Speak to the library staff member. Explain that you made a reservation, say when your group needs the room, and ask what alternative is available.",
+      "suggestedResponseSeconds":40,
+      "source":"Original FluentPath speaking situation","rights":"Created for this project; not official exam material"
+    },
+    {
+      "id":"pte-writing-summarize-written-text-research",
+      "exam":"PTE Academic","skill":"Writing","format":"Summarize Written Text",
+      "title":"Writing · Summarise a research passage",
+      "instructions":"Write one sentence that summarises the main idea and key information in the passage.",
+      "prompt":"Community science programmes invite residents to collect observations about local wildlife. These observations can cover a wider area than a small research team could visit alone. However, results are most useful when volunteers receive clear instructions and researchers check unusual records. A recent project found that short training sessions improved the consistency of reports, although participation varied between neighbourhoods. The authors recommend combining volunteer data with regular expert surveys rather than treating either source as complete on its own.",
+      "suggestedTimeMinutes":10,"minimumWords":5,"maximumWords":75,
+      "source":"Original FluentPath passage and prompt","rights":"Created for this project; not official exam material"
+    }
+  ]
+}

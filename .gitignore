@@ -1,0 +1,7 @@
+# FluentPath ignore rules
+node_modules/
+.env
+.env.*
+!.env.example
+.vercel/
+*.log

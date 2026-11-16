@@ -1,0 +1,473 @@
+{
+  "schemaVersion": 1,
+  "contentPolicy": "All entries below are original illustrative FluentPath practice items. They are not copied from IELTS, Pearson PTE, or university exam papers. Review and document rights before adding any third-party material.",
+  "tasks": [
+    {
+      "id": "ielts-academic-writing-task-2-community-gardens",
+      "exam": "IELTS Academic",
+      "skill": "Writing",
+      "format": "Task 2 essay",
+      "title": "Writing · Task 2",
+      "instructions": "Write an essay discussing the question and support your view with reasons and examples.",
+      "prompt": "Some people believe cities should spend more money on public parks and community gardens. To what extent do you agree or disagree?",
+      "suggestedTimeMinutes": 40,
+      "minimumWords": 250,
+      "source": "Original FluentPath practice item",
+      "rights": "Created for this project; not official exam material"
+    },
+    {
+      "id": "ielts-academic-reading-urban-green-spaces",
+      "exam": "IELTS Academic",
+      "skill": "Reading",
+      "format": "Short passage · multiple choice",
+      "title": "Reading · Urban green spaces",
+      "instructions": "Read the passage, then answer all three questions.",
+      "passage": "Urban green spaces can improve wellbeing by giving residents places to exercise and meet. Trees also reduce heat and absorb some air pollution. However, creating parks in crowded cities can be expensive, and their benefits depend on good maintenance.",
+      "questions": [
+        {"question":"What is one environmental benefit of trees?","options":["They make city parks less expensive.","They reduce heat and absorb some air pollution.","They prevent all illness."],"answerIndex":1,"explanation":"The passage says trees reduce heat and absorb some air pollution."},
+        {"question":"What can green spaces give residents a place to do?","options":["Grow food for the whole city.","Avoid all traffic.","Exercise and meet."],"answerIndex":2,"explanation":"The opening sentence says residents can use green spaces to exercise and meet."},
+        {"question":"What do park benefits depend on?","options":["More parking spaces.","Free entry every day.","Good maintenance."],"answerIndex":2,"explanation":"The passage says the benefits depend on good maintenance."}
+      ],
+      "source": "Original FluentPath practice passage and questions",
+      "rights": "Created for this project; not official exam material"
+    },
+    {
+      "id": "ielts-academic-listening-student-garden-workshop",
+      "exam": "IELTS Academic",
+      "skill": "Listening",
+      "format": "Announcement · multiple choice",
+      "title": "Listening · Garden workshop",
+      "instructions": "Listen to the announcement, then answer all three questions.",
+      "audioScript": "The student garden workshop will take place on Saturday, 18 May, from 10 a.m. to 1 p.m. Please meet at the east entrance. Bring gardening gloves if you have them; tools will be provided.",
+      "questions": [
+        {"question":"On what date is the workshop?","options":["Sunday, 18 May","Saturday, 18 May","Saturday, 8 May"],"answerIndex":1,"explanation":"The announcement gives the date as Saturday, 18 May."},
+        {"question":"Where should participants meet?","options":["At the east entrance","At the main library","At the garden shed"],"answerIndex":0,"explanation":"Participants are asked to meet at the east entrance."},
+        {"question":"What will be provided?","options":["Gardening gloves","Lunch","Gardening tools"],"answerIndex":2,"explanation":"Tools will be provided; gloves are optional to bring."}
+      ],
+      "source": "Original FluentPath listening script and questions",
+      "rights": "Created for this project; not official exam material"
+    },
+    {
+      "id": "ielts-academic-speaking-learning-a-skill",
+      "exam": "IELTS Academic",
+      "skill": "Speaking",
+      "format": "Long turn cue card",
+      "title": "Speaking · Describe a skill",
+      "instructions": "Take one minute to prepare, then speak for up to two minutes.",
+      "prompt": "Describe a skill you would like to learn. Say what the skill is, why you want to learn it, how you would learn it, and how it might be useful in the future.",
+      "preparationSeconds": 60,
+      "suggestedResponseSeconds": 120,
+      "source": "Original FluentPath speaking prompt",
+      "rights": "Created for this project; not official exam material"
+    },
+    {
+      "id": "pte-academic-writing-essay-online-learning",
+      "exam": "PTE Academic",
+      "skill": "Writing",
+      "format": "Write Essay",
+      "title": "Writing · Essay",
+      "instructions": "Write an essay presenting your position with reasons and examples.",
+      "prompt": "Some people think online learning is as effective as classroom learning. Do you agree or disagree? Give reasons and examples to support your answer.",
+      "suggestedTimeMinutes": 20,
+      "minimumWords": 200,
+      "maximumWords": 300,
+      "source": "Original FluentPath practice item",
+      "rights": "Created for this project; not official exam material"
+    },
+    {
+      "id": "pte-academic-reading-community-libraries",
+      "exam": "PTE Academic",
+      "skill": "Reading",
+      "format": "Multiple Choice, Single Answer",
+      "title": "Reading · Community libraries",
+      "instructions": "Read the passage, then answer all three questions.",
+      "passage": "Community libraries are changing alongside the needs of their users. Many now provide digital resources, language classes, quiet study areas and access to technology. While online information is widely available, libraries remain valuable because they offer reliable materials and welcoming spaces for people to learn together.",
+      "questions": [
+        {"question":"Why does the passage say libraries remain valuable?","options":["They offer reliable materials and welcoming places to learn.","They have replaced all online information.","They only provide language classes."],"answerIndex":0,"explanation":"The passage identifies reliable materials and shared learning spaces as reasons libraries remain valuable."},
+        {"question":"Which service is mentioned?","options":["Medical appointments","Language classes","Sports coaching"],"answerIndex":1,"explanation":"The passage lists language classes among the services many libraries provide."},
+        {"question":"How does the passage describe online information?","options":["It is always unreliable.","It can only be found in libraries.","It is widely available."],"answerIndex":2,"explanation":"The passage says online information is widely available, while libraries still offer other value."}
+      ],
+      "source": "Original FluentPath practice passage and questions",
+      "rights": "Created for this project; not official exam material"
+    },
+    {
+      "id": "pte-academic-listening-urban-trees",
+      "exam": "PTE Academic",
+      "skill": "Listening",
+      "format": "Multiple Choice, Single Answer",
+      "title": "Listening · Urban trees",
+      "instructions": "Listen to the short talk, then answer all three questions.",
+      "audioScript": "Researchers studying urban trees found that tree cover can lower street temperatures during hot weather. The effect is strongest when trees form a connected canopy. The researchers note that planting alone is not enough; young trees need regular care and suitable locations to survive.",
+      "questions": [
+        {"question":"What can tree cover do during hot weather?","options":["Increase traffic speed","Stop all rainfall","Lower street temperatures"],"answerIndex":2,"explanation":"The speaker says tree cover can lower street temperatures during hot weather."},
+        {"question":"When is the cooling effect strongest?","options":["When trees form a connected canopy","When trees are planted indoors","When streets have no buildings"],"answerIndex":0,"explanation":"The effect is strongest when trees form a connected canopy."},
+        {"question":"What do young trees need to survive?","options":["Regular care and suitable locations","A larger parking area","Daily heavy watering"],"answerIndex":0,"explanation":"The speaker says young trees need regular care and suitable locations."}
+      ],
+      "source": "Original FluentPath listening script and questions",
+      "rights": "Created for this project; not official exam material"
+    },
+    {
+      "id": "pte-academic-speaking-chart-description",
+      "exam": "PTE Academic",
+      "skill": "Speaking",
+      "format": "Describe Image · bar chart practice",
+      "title": "Speaking · Describe a chart",
+      "instructions": "Study the chart data, then describe the main trend and support it with figures.",
+      "prompt": "Study the chart and describe the overall trend. Include at least two figures.",
+      "chart": {"title":"Share of commuters cycling to work","unit":"%","categories":["2015","2018","2021","2024"],"series":[{"name":"Cycling","values":[12,15,19,23]}]},
+      "suggestedResponseSeconds": 40,
+      "source": "Original FluentPath chart data and prompt",
+      "rights": "Created for this project; not official exam material"
+    },
+    {
+      "id": "ielts-academic-writing-task-2-four-day-week",
+      "exam": "IELTS Academic",
+      "skill": "Writing",
+      "format": "Task 2 essay",
+      "title": "Writing · Four-day work week",
+      "instructions": "Discuss both sides of the issue and give your own opinion, supporting your ideas with reasons and examples.",
+      "prompt": "Some companies are considering a four-day working week with no reduction in pay. Discuss the possible advantages and disadvantages, and give your own opinion.",
+      "suggestedTimeMinutes": 40,
+      "minimumWords": 250,
+      "source": "Original FluentPath practice item",
+      "rights": "Created for this project; not official exam material"
+    },
+    {
+      "id": "ielts-academic-reading-coastal-wetlands",
+      "exam": "IELTS Academic",
+      "skill": "Reading",
+      "format": "Short passage · multiple choice",
+      "title": "Reading · Coastal wetlands",
+      "instructions": "Read the passage, then answer all three questions.",
+      "passage": "Coastal wetlands can reduce the force of some waves because their plants slow moving water and help hold sediment in place. They also provide habitat for birds and young fish. Restoration projects often begin by removing barriers to natural tidal movement. Researchers caution that restored wetlands cannot prevent every flood, and outcomes depend on local geography, water levels and long-term care.",
+      "questions": [
+        {"question":"How can wetland plants help reduce wave force?","options":["They slow water and hold sediment","They make the sea level fall","They block every incoming wave"],"answerIndex":0,"explanation":"The passage says plants slow moving water and help hold sediment in place."},
+        {"question":"What is a common first step in restoration?","options":["Building a new harbour","Removing barriers to tidal movement","Moving all birds inland"],"answerIndex":1,"explanation":"Restoration often begins by removing barriers to natural tidal movement."},
+        {"question":"What limitation do researchers mention?","options":["Wetlands cannot prevent every flood","Wetlands have no wildlife value","Wetlands work only in winter"],"answerIndex":0,"explanation":"The passage explicitly says restored wetlands cannot prevent every flood."}
+      ],
+      "source": "Original FluentPath practice passage and questions",
+      "rights": "Created for this project; not official exam material"
+    },
+    {
+      "id": "ielts-academic-listening-library-talk",
+      "exam": "IELTS Academic",
+      "skill": "Listening",
+      "format": "Campus announcement · multiple choice",
+      "title": "Listening · Library changes",
+      "instructions": "Listen to the announcement, then answer all three questions.",
+      "audioScript": "The north campus library will extend its weekday opening hours from Monday, 3 June. It will now close at 9 p.m. instead of 7 p.m. The change follows a student survey, but the weekend schedule will stay the same for now. Group study rooms can be booked online up to seven days in advance. Please bring your student card to collect a room key.",
+      "questions": [
+        {"question":"What is changing from 3 June?","options":["Weekday closing time","Weekend opening hours","The library's location"],"answerIndex":0,"explanation":"The library will close later on weekdays, at 9 p.m."},
+        {"question":"Why were the new hours introduced?","options":["A student survey","A building inspection","A change to bus routes"],"answerIndex":0,"explanation":"The announcement says the change follows a student survey."},
+        {"question":"What should students bring to collect a room key?","options":["A booking receipt","A student card","A laptop"],"answerIndex":1,"explanation":"Students are asked to bring their student card."}
+      ],
+      "source": "Original FluentPath listening script and questions",
+      "rights": "Created for this project; not official exam material"
+    },
+    {
+      "id": "ielts-academic-speaking-helpful-advice",
+      "exam": "IELTS Academic",
+      "skill": "Speaking",
+      "format": "Long turn cue card",
+      "title": "Speaking · Helpful advice",
+      "instructions": "Take one minute to prepare, then speak for up to two minutes.",
+      "prompt": "Describe a piece of advice that was helpful to you. Say who gave it, when you received it, what the advice was, and explain why it was useful.",
+      "preparationSeconds": 60,
+      "suggestedResponseSeconds": 120,
+      "source": "Original FluentPath speaking prompt",
+      "rights": "Created for this project; not official exam material"
+    },
+    {
+      "id": "pte-academic-writing-summary-community-energy",
+      "exam": "PTE Academic",
+      "skill": "Writing",
+      "format": "Summarize Written Text",
+      "title": "Writing · Summarise a passage",
+      "instructions": "Read the passage and write one sentence that captures its main idea and key supporting points.",
+      "prompt": "Community energy projects allow residents to invest in local renewable power, such as solar panels on public buildings. Supporters say local ownership can keep some financial benefits in the area and help people understand how energy is produced. However, projects need clear management and enough initial funding. Their success also depends on suitable sites and continued maintenance, so they are not a complete solution for every neighbourhood.",
+      "suggestedTimeMinutes": 10,
+      "minimumWords": 30,
+      "maximumWords": 75,
+      "source": "Original FluentPath practice passage and prompt",
+      "rights": "Created for this project; not official exam material"
+    },
+    {
+      "id": "pte-academic-reading-sleep-learning",
+      "exam": "PTE Academic",
+      "skill": "Reading",
+      "format": "Multiple Choice, Single Answer",
+      "title": "Reading · Sleep and learning",
+      "instructions": "Read the passage, then answer all three questions.",
+      "passage": "Sleep supports several processes involved in learning, including attention and memory. A short period of rest after studying may help some people organise what they have learned, but it cannot replace practice or make every learner perform equally well. Researchers also point out that sleep needs vary, and that study results from one group should not automatically be applied to everyone.",
+      "questions": [
+        {"question":"Which learning processes are linked with sleep in the passage?","options":["Attention and memory","Handwriting and drawing","Speed and strength"],"answerIndex":0,"explanation":"The first sentence links sleep with attention and memory."},
+        {"question":"What limitation is mentioned about rest after studying?","options":["It cannot replace practice","It only works for children","It removes the need for sleep"],"answerIndex":0,"explanation":"The passage says rest cannot replace practice."},
+        {"question":"Why should findings from one group be used carefully?","options":["Sleep needs vary between people","All studies use the same learners","Memory cannot be researched"],"answerIndex":0,"explanation":"Researchers note that sleep needs vary and results may not apply to everyone."}
+      ],
+      "source": "Original FluentPath practice passage and questions",
+      "rights": "Created for this project; not official exam material"
+    },
+    {
+      "id": "pte-academic-listening-course-registration",
+      "exam": "PTE Academic",
+      "skill": "Listening",
+      "format": "Multiple Choice, Single Answer",
+      "title": "Listening · Course registration",
+      "instructions": "Listen to the announcement, then answer all three questions.",
+      "audioScript": "Registration for the evening language course opens on Tuesday, 9 July. Classes begin the following week and meet on Tuesdays and Thursdays from 6 to 7:30 p.m. Students should complete the online form before attending. The first lesson is in Room 204, but later classes will move to the language centre. A printed workbook is included in the course fee.",
+      "questions": [
+        {"question":"When does registration open?","options":["Tuesday, 9 July","Thursday, 9 July","Tuesday, 19 July"],"answerIndex":0,"explanation":"Registration opens on Tuesday, 9 July."},
+        {"question":"How often do classes meet?","options":["Every weekday","On Tuesdays and Thursdays","Only on Saturdays"],"answerIndex":1,"explanation":"The announcement gives Tuesday and Thursday as class days."},
+        {"question":"What is included in the course fee?","options":["A printed workbook","A transport pass","A private tutor"],"answerIndex":0,"explanation":"The workbook is included in the course fee."}
+      ],
+      "source": "Original FluentPath listening script and questions",
+      "rights": "Created for this project; not official exam material"
+    },
+    {
+      "id": "pte-academic-speaking-retell-lecture",
+      "exam": "PTE Academic",
+      "skill": "Speaking",
+      "format": "Retell Lecture · short talk practice",
+      "title": "Speaking · Retell a short lecture",
+      "instructions": "Review the lecture notes, then summarise the main idea and two supporting details aloud.",
+      "prompt": "Lecture notes: A university trial compared three ways to reduce food waste in student residences. Clearer date labels improved planning; smaller serving trays reduced leftovers; and a weekly donation collection redirected unopened food. The trial lasted eight weeks. The largest reduction came from combining all three changes, although the team recommends testing the approach in other settings.",
+      "suggestedResponseSeconds": 40,
+      "source": "Original FluentPath lecture notes and speaking prompt",
+      "rights": "Created for this project; not official exam material"
+    }
+    ,
+    {
+      "id": "ielts-academic-writing-task-1-recycling-table",
+      "exam": "IELTS Academic",
+      "skill": "Writing",
+      "format": "Task 1 · table report",
+      "title": "Writing · Compare recycling rates",
+      "instructions": "Summarise the information by selecting and reporting the main features, and make relevant comparisons.",
+      "prompt": "A table shows the percentage of household waste recycled in three towns. In 2019, Northdale recycled 34%, Lakeside 28%, and Hillview 41%. In 2024, the figures were 46%, 39%, and 44% respectively. Write a report describing the main features and comparisons. Do not add reasons that are not shown by the data.",
+      "suggestedTimeMinutes": 20,
+      "minimumWords": 150,
+      "source": "Original FluentPath table data and prompt",
+      "rights": "Created for this project; not official exam material"
+    },
+    {
+      "id": "ielts-academic-writing-task-2-museum-funding",
+      "exam": "IELTS Academic",
+      "skill": "Writing",
+      "format": "Task 2 essay",
+      "title": "Writing · Public museum funding",
+      "instructions": "Present your view and support it with clear reasons and relevant examples.",
+      "prompt": "Some people believe governments should spend more money on museums and public galleries, while others think this money should be used for essential services. Discuss both views and give your own opinion.",
+      "suggestedTimeMinutes": 40,
+      "minimumWords": 250,
+      "source": "Original FluentPath practice item",
+      "rights": "Created for this project; not official exam material"
+    },
+    {
+      "id": "ielts-academic-reading-campus-research",
+      "exam": "IELTS Academic",
+      "skill": "Reading",
+      "format": "Short passage · multiple choice",
+      "title": "Reading · Campus research spaces",
+      "instructions": "Read the passage, then answer all three questions.",
+      "passage": "A university converted an unused storage building into shared research rooms. The rooms can be booked by students from different departments, allowing them to borrow specialist equipment rather than buy it for a single project. A review after one year found that bookings rose during term time but fell sharply in summer. The university will keep the rooms open, while considering shorter summer hours. Staff also noted that shared equipment needs clear booking rules and regular maintenance.",
+      "questions": [
+        {"question":"Why were the research rooms created?","options":["To let students share specialist equipment","To replace every department laboratory","To provide student accommodation"],"answerIndex":0,"explanation":"Students can borrow specialist equipment instead of buying it for one project."},
+        {"question":"When did bookings fall sharply?","options":["During term time","In summer","At the start of each week"],"answerIndex":1,"explanation":"The review found that bookings fell sharply in summer."},
+        {"question":"What does shared equipment require?","options":["Clear booking rules and maintenance","A separate building for every student","No staff supervision"],"answerIndex":0,"explanation":"Staff said the equipment needs clear rules and regular maintenance."}
+      ],
+      "source": "Original FluentPath practice passage and questions",
+      "rights": "Created for this project; not official exam material"
+    },
+    {
+      "id": "ielts-academic-reading-seed-banks",
+      "exam": "IELTS Academic",
+      "skill": "Reading",
+      "format": "Short passage · multiple choice",
+      "title": "Reading · Community seed banks",
+      "instructions": "Read the passage, then answer all three questions.",
+      "passage": "Community seed banks store locally collected seeds so that growers can use varieties suited to nearby conditions. Members may exchange seeds and record when and where each variety grows well. The banks do not guarantee a harvest: weather, soil and cultivation methods still matter. Organisers therefore combine seed storage with workshops and encourage members to keep some seeds from each successful crop for future seasons.",
+      "questions": [
+        {"question":"Why do growers use locally collected seeds?","options":["They may suit nearby conditions","They remove the need to water plants","They guarantee a large harvest"],"answerIndex":0,"explanation":"The passage says the varieties may suit local conditions."},
+        {"question":"What information do members record?","options":["Where and when a variety grows well","The price of every garden tool","The number of workshops each year"],"answerIndex":0,"explanation":"Members record when and where each variety grows well."},
+        {"question":"Why are workshops included?","options":["Seed storage alone cannot guarantee a harvest","Seeds cannot be exchanged","Weather has no effect on crops"],"answerIndex":0,"explanation":"The text says growing outcomes depend on more than stored seeds, so workshops support members."}
+      ],
+      "source": "Original FluentPath practice passage and questions",
+      "rights": "Created for this project; not official exam material"
+    },
+    {
+      "id": "ielts-academic-listening-transport-survey",
+      "exam": "IELTS Academic",
+      "skill": "Listening",
+      "format": "Research briefing · multiple choice",
+      "title": "Listening · Commuter survey",
+      "instructions": "Listen to the briefing, then answer all three questions.",
+      "audioScript": "The transport department surveyed 320 residents about their journeys to work. The largest group travelled by bus, while walking was the least common choice. Since the survey was conducted in October, the department plans to repeat it in spring to see whether the pattern changes. The results describe the people who replied; they should not be treated as a complete picture of every resident in the city.",
+      "questions": [
+        {"question":"How many residents were surveyed?","options":["230","320","3,200"],"answerIndex":1,"explanation":"The speaker says 320 residents took part."},
+        {"question":"Which travel choice was least common?","options":["Walking","Bus","Cycling"],"answerIndex":0,"explanation":"Walking was the least common choice in the survey."},
+        {"question":"Why will the department repeat the survey in spring?","options":["To check whether the pattern changes","To include only bus passengers","To replace the October results"],"answerIndex":0,"explanation":"The department wants to see whether the pattern changes by season."}
+      ],
+      "source": "Original FluentPath listening script and questions",
+      "rights": "Created for this project; not official exam material"
+    },
+    {
+      "id": "ielts-academic-listening-field-course",
+      "exam": "IELTS Academic",
+      "skill": "Listening",
+      "format": "Campus announcement · multiple choice",
+      "title": "Listening · Field course details",
+      "instructions": "Listen to the announcement, then answer all three questions.",
+      "audioScript": "The geography field course will leave from the science building at 8:15 on Thursday morning. Students should bring a notebook, water and a light rain jacket. The department will provide safety equipment and lunch. If heavy rain is forecast, the group will meet in Room 12 for an indoor mapping exercise instead. Please check your university email after 6 p.m. on Wednesday for the final decision.",
+      "questions": [
+        {"question":"Where will the group leave from?","options":["The science building","The main library","Room 12"],"answerIndex":0,"explanation":"The group will leave from the science building."},
+        {"question":"What will the department provide?","options":["Notebooks and water","Safety equipment and lunch","Rain jackets for everyone"],"answerIndex":1,"explanation":"Safety equipment and lunch will be provided."},
+        {"question":"When should students check for the final decision?","options":["After 6 p.m. on Wednesday","At 8:15 on Thursday","Before noon on Monday"],"answerIndex":0,"explanation":"Students should check their university email after 6 p.m. Wednesday."}
+      ],
+      "source": "Original FluentPath listening script and questions",
+      "rights": "Created for this project; not official exam material"
+    },
+    {
+      "id": "ielts-academic-speaking-special-event",
+      "exam": "IELTS Academic",
+      "skill": "Speaking",
+      "format": "Long turn cue card",
+      "title": "Speaking · A memorable event",
+      "instructions": "Take one minute to prepare, then speak for up to two minutes.",
+      "prompt": "Describe an event you attended that you remember well. Say what the event was, where and when it took place, who you went with, and explain why you remember it.",
+      "preparationSeconds": 60,
+      "suggestedResponseSeconds": 120,
+      "source": "Original FluentPath speaking prompt",
+      "rights": "Created for this project; not official exam material"
+    },
+    {
+      "id": "ielts-academic-speaking-useful-object",
+      "exam": "IELTS Academic",
+      "skill": "Speaking",
+      "format": "Long turn cue card",
+      "title": "Speaking · A useful object",
+      "instructions": "Take one minute to prepare, then speak for up to two minutes.",
+      "prompt": "Describe an object that you use often. Say what it is, how long you have had it, how you use it, and explain why it is useful to you.",
+      "preparationSeconds": 60,
+      "suggestedResponseSeconds": 120,
+      "source": "Original FluentPath speaking prompt",
+      "rights": "Created for this project; not official exam material"
+    },
+    {
+      "id": "pte-academic-writing-essay-urban-trees",
+      "exam": "PTE Academic",
+      "skill": "Writing",
+      "format": "Write Essay",
+      "title": "Writing · Urban tree planting",
+      "instructions": "Write an essay presenting your position with reasons and examples.",
+      "prompt": "Some people think cities should require new buildings to include green spaces, such as rooftop gardens or planted walls. Do you agree or disagree? Support your view with reasons and examples.",
+      "suggestedTimeMinutes": 20,
+      "minimumWords": 200,
+      "maximumWords": 300,
+      "source": "Original FluentPath practice item",
+      "rights": "Created for this project; not official exam material"
+    },
+    {
+      "id": "pte-academic-writing-summary-urban-farms",
+      "exam": "PTE Academic",
+      "skill": "Writing",
+      "format": "Summarize Written Text",
+      "title": "Writing · Summarise urban farms",
+      "instructions": "Read the passage and write one sentence that captures its main idea and key supporting points.",
+      "prompt": "Urban farms use rooftops, courtyards and vacant lots to grow food close to consumers. Supporters say these projects can provide fresh produce and create opportunities for residents to learn about gardening. However, available space is limited, and farms need reliable access to water, suitable soil and ongoing volunteer or staff support. They are best understood as one part of a local food system rather than a replacement for larger farms.",
+      "suggestedTimeMinutes": 10,
+      "minimumWords": 30,
+      "maximumWords": 75,
+      "source": "Original FluentPath practice passage and prompt",
+      "rights": "Created for this project; not official exam material"
+    },
+    {
+      "id": "pte-academic-reading-bike-share-data",
+      "exam": "PTE Academic",
+      "skill": "Reading",
+      "format": "Multiple Choice, Single Answer",
+      "title": "Reading · Bike-share patterns",
+      "instructions": "Read the passage, then answer all three questions.",
+      "passage": "A city compared bike-share journeys before and after opening a protected route beside the river. Use of nearby stations rose during the first six months, especially on weekdays. The report says this increase happened at the same time as the new route opened, but it does not prove the route was the only cause. Weather and changes in station locations may also have influenced the figures. The city plans to collect data for another year before deciding whether to extend the route.",
+      "questions": [
+        {"question":"When did nearby station use rise?","options":["During the first six months after the route opened","Only during the winter","Before the city collected any data"],"answerIndex":0,"explanation":"Use rose during the first six months after the route opened."},
+        {"question":"What does the report say about the route and the increase?","options":["The route is proven to be the only cause","The increase happened at the same time, but other factors may matter","The route reduced all bike-share use"],"answerIndex":1,"explanation":"The report does not claim the route was the only cause."},
+        {"question":"What will the city do before deciding about an extension?","options":["Collect data for another year","Close all nearby stations","Stop recording weekday journeys"],"answerIndex":0,"explanation":"The city plans to collect data for another year."}
+      ],
+      "source": "Original FluentPath practice passage and questions",
+      "rights": "Created for this project; not official exam material"
+    },
+    {
+      "id": "pte-academic-reading-remote-work-study",
+      "exam": "PTE Academic",
+      "skill": "Reading",
+      "format": "Multiple Choice, Single Answer",
+      "title": "Reading · Remote work study",
+      "instructions": "Read the passage, then answer all three questions.",
+      "passage": "A small company allowed one team to work remotely two days each week for three months. Most team members reported that they spent less time commuting, while some said it was harder to ask quick questions. The company found no clear change in the number of completed projects during the trial. Because the team was small and the trial was short, the manager said the results should guide a larger evaluation rather than settle the question for every workplace.",
+      "questions": [
+        {"question":"What benefit did most team members report?","options":["Less commuting time","More completed projects","Fewer online meetings"],"answerIndex":0,"explanation":"Most team members reported spending less time commuting."},
+        {"question":"What difficulty did some people mention?","options":["Asking quick questions","Finding the office building","Accessing the internet at home"],"answerIndex":0,"explanation":"Some found it harder to ask quick questions."},
+        {"question":"Why should the results be treated cautiously?","options":["The team was small and the trial was short","The study lasted several years","No one completed any projects"],"answerIndex":0,"explanation":"The manager cited the small team and short trial."}
+      ],
+      "source": "Original FluentPath practice passage and questions",
+      "rights": "Created for this project; not official exam material"
+    },
+    {
+      "id": "pte-academic-listening-museum-hours",
+      "exam": "PTE Academic",
+      "skill": "Listening",
+      "format": "Multiple Choice, Single Answer",
+      "title": "Listening · Museum visit",
+      "instructions": "Listen to the announcement, then answer all three questions.",
+      "audioScript": "Welcome to the City Design Museum. We are open from 10 a.m. to 5 p.m. every day except Monday. The temporary exhibition on public spaces is on the second floor and is included with your entry ticket. A guided tour begins at 2 p.m. near the main staircase. Photography is permitted in the permanent galleries, but please do not take pictures in the temporary exhibition.",
+      "questions": [
+        {"question":"On which day is the museum closed?","options":["Monday","Wednesday","Sunday"],"answerIndex":0,"explanation":"The museum is open every day except Monday."},
+        {"question":"Where is the temporary exhibition?","options":["On the second floor","Near the ticket desk","In the permanent gallery"],"answerIndex":0,"explanation":"The announcement places the exhibition on the second floor."},
+        {"question":"Where may visitors take photographs?","options":["In the permanent galleries","In the temporary exhibition","Only near the main staircase"],"answerIndex":0,"explanation":"Photography is permitted in the permanent galleries only."}
+      ],
+      "source": "Original FluentPath listening script and questions",
+      "rights": "Created for this project; not official exam material"
+    },
+    {
+      "id": "pte-academic-listening-energy-lecture",
+      "exam": "PTE Academic",
+      "skill": "Listening",
+      "format": "Multiple Choice, Single Answer",
+      "title": "Listening · Building energy use",
+      "instructions": "Listen to the short talk, then answer all three questions.",
+      "audioScript": "A campus team compared electricity use in two similar teaching buildings. One building used automated lighting controls, while the other relied on manual switches. Over the study period, the building with automated controls used less electricity for lighting, but the difference was smaller on cloudy days. The team recommends combining sensors with clear instructions so occupants can adjust settings when a room is unusually bright or busy.",
+      "questions": [
+        {"question":"What did the team compare?","options":["Electricity use in two teaching buildings","Heating in several homes","Water use in campus gardens"],"answerIndex":0,"explanation":"The team compared electricity use in two similar teaching buildings."},
+        {"question":"When was the difference in lighting use smaller?","options":["On cloudy days","During the summer break","When rooms were empty"],"answerIndex":0,"explanation":"The speaker says the difference was smaller on cloudy days."},
+        {"question":"What does the team recommend?","options":["Sensors plus clear instructions for occupants","Removing all manual controls","Keeping every room fully lit"],"answerIndex":0,"explanation":"The recommendation combines sensors with clear user instructions."}
+      ],
+      "source": "Original FluentPath listening script and questions",
+      "rights": "Created for this project; not official exam material"
+    },
+    {
+      "id": "pte-academic-speaking-situation-community-project",
+      "exam": "PTE Academic",
+      "skill": "Speaking",
+      "format": "Respond to a Situation",
+      "title": "Speaking · Organise a community event",
+      "instructions": "Speak for about 30–40 seconds. Explain your plan and give practical details.",
+      "prompt": "Your neighbourhood group wants to organise a weekend clean-up, but volunteers have different schedules. Explain how you would choose a time, share the tasks fairly, and let everyone know what to bring.",
+      "suggestedResponseSeconds": 40,
+      "source": "Original FluentPath speaking prompt",
+      "rights": "Created for this project; not official exam material"
+    },
+    {
+      "id": "pte-academic-speaking-describe-chart-study",
+      "exam": "PTE Academic",
+      "skill": "Speaking",
+      "format": "Describe Image · chart practice",
+      "title": "Speaking · Describe study hours",
+      "instructions": "Study the chart data, then describe its main features and include at least two figures.",
+      "prompt": "Study the chart and describe its main comparisons and changes, supporting your response with figures.",
+      "chart": {"title":"Average weekly library study hours","unit":" hours","categories":["2022","2024"],"series":[{"name":"First-year","values":[9,11]},{"name":"Second-year","values":[12,12]},{"name":"Final-year","values":[14,16]}]},
+      "suggestedResponseSeconds": 40,
+      "source": "Original FluentPath chart data and prompt",
+      "rights": "Created for this project; not official exam material"
+    }
+  ]
+}

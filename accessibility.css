@@ -1,0 +1,28 @@
+:where(a, button, input, textarea, select, [role="button"][tabindex]):focus-visible {
+  outline: 3px solid #3449c4;
+  outline-offset: 3px;
+}
+
+/* The small sparkle tile in the overview tip card is decorative, so omit it. */
+.tip-icon {
+  display: none;
+}
+
+.next-task-button {
+  margin-left: 12px;
+}
+
+#task-view {
+  padding-top: 22px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+}
